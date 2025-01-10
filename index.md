@@ -17,32 +17,44 @@ added, removed, and updated.
 
 |Server Name|Port Number|Version|Game Size|Provided By|
 |:------|:-----:|:--------:|:--:|-------:|
-|||*stable / milestone*|||
-|ghost-bear.megamek.games            |2346|0.49.19.1 (Milestone)|1700M - Regimental? |TapEnvy.us, LLC|
-|sldf.megamek.games                  |2346|0.49.7 (Milestone)|768M - Companies    |MegaMek Team|
-|magistracy-of-canopus.megamek.games |2346|0.48.0 (Stable)|512M - Companies    |Delra|
-|ralias-raiders.megamek.games        |2823|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |2830|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |2866|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3028|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3039|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3049|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3052|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3057|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3058|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3062|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3067|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3081|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3071|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|ralias-raiders.megamek.games        |3151|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
-|houseofmors2.megamek.games          |2346|0.49.19.1 (Milestone)|768M - Companies    |Mors2657|
+|||*Milestone*|||
+|ghost-bear.megamek.games     |2346|0.49.19.1 (Milestone)|1700M - Regimental? |TapEnvy.us, LLC|
+|sldf.megamek.games           |2346|0.49.19.1 (Milestone)|768M - Companies    |MegaMek Team|
+|ralias-raiders.megamek.games |2830|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |2866|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3028|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3039|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3052|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3058|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3062|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3067|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3081|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
 ||||||
-|||*development*|||
-|diamond-shark.megamek.games  |2346|0.49.19|1700M - Regimental? |TapEnvy.us, LLC|
-|hells-horses.megamek.games   |2346|0.49.19|768M - Companies    |MegaMek Team|
-|blackhearts.megamek.games    |2346|0.49.19|768M - Companies    |MegaMek Team|
-|wolverines.megamek.games     |2346|0.49.19|768M - Companies    |MegaMek Team|
-|houseofmors.megamek.games    |2346|0.49.19|768M - Companies    |Mors2657|
+|||*Development*|||
+|diamond-shark.megamek.games  |2346|0.50.02|1700M - Regimental? |TapEnvy.us, LLC|
+|hells-horses.megamek.games   |2346|0.50.02|768M - Companies    |MegaMek Team|
+|blackhearts.megamek.games    |2346|0.50.02|768M - Companies    |MegaMek Team|
+|wolverines.megamek.games     |2346|0.50.02|768M - Companies    |MegaMek Team|
+|houseofmors2.megamek.games   |2346|0.50.02|768M - Companies    |Mors2657|
+|ralias-raiders.megamek.games |2823|0.50.02|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3049|0.50.02|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3057|0.50.02|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3071|0.50.02|2048M - Regimental? |[RR] Sierra Invenio|
+|ralias-raiders.megamek.games |3151|0.50.02|2048M - Regimental? |[RR] Sierra Invenio|
+||||||
+|||*Deprecatied Stable Servers*|||
+|magistracy-of-canopus.megamek.games |2346|0.48.0 (Stable)|512M - Companies    |Delra|
+|megamek.lynxx-it.de                 |2346|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2348|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2350|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2352|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2354|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2356|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2358|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2360|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2362|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2364|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
+|megamek.lynxx-it.de                 |2366|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
 
 ## MekWars Servers
 
@@ -79,4 +91,4 @@ In addition, if you find the rules are not changing, go into `Game Options` and 
 
 That's great! We'd love to have more servers to allow more public servers to not deal with firewall issues. We only ask that you keep it updated with new versions within a reasonable time of their release (not immediate of course but within a month would be great). If you're fine with that, open a ticket at the repository and we'd need the IP4 (and IP6 if available) address, port number, version running, a name to place next to it, and a faction to give you your own subdomain. We'll update this page as soon as we are able.
 
-We thank you for wanting to help enable more players to play and happy hunting MechWarrior!
+We thank you for wanting to help enable more players to play and happy hunting MekWarrior!
